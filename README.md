@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Nishant Bundela
 
 👨🏻‍🎓 Master of Science in Engineering Management student at Johns Hopkins University  
-🏫 Bachelor of Mechanical Engineering from NIT Kurukshetra  
+🏫 Bachelor of Technology in Mechanical Engineering from NIT Kurukshetra  
 🎢 Data and AI oriented Product Manager  
 🌱 Computer Science Enthusiast  
 🔭 Life and Science Researcher by hobby
