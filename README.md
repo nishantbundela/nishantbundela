@@ -6,7 +6,7 @@
 🌱 Computer Science Enthusiast  
 🔭 Life and Science Researcher by hobby
 
-[Portfolio](https://www.nishantbundela.me/)
+[Portfolio](https://www.nishantbundela.me/)  
 My [Technical Skills](https://nishantbundela.github.io)
 
 
