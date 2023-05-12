@@ -7,7 +7,7 @@
 ⚡ My areas of interest are Software engineering, data science, product management, physics and social engineering.  
 
 My [Portfolio](https://www.nishantbundela.me/)  
-My [LinkedIN]([https://nishantbundela.github.io](https://www.linkedin.com/in/nishantbundela/))
+My [LinkedIN](https://nishantbundela.github.io](https://www.linkedin.com/in/nishantbundela/)
 
 
 <!--
