@@ -1,13 +1,13 @@
 ### Hi there 👋 My name is Nishant Bundela
 
-👨🏻‍🎓 Master of Science in Engineering Management student at Johns Hopkins University  
+👨🏻‍🎓 Master of Science in Engineering Management from Johns Hopkins University.  
 🏫 Bachelor of Technology in Mechanical Engineering from NIT Kurukshetra  
-🎢 Data and AI oriented Product Manager  
-🌱 Computer Science Enthusiast  
-🔭 Life and Science Researcher by hobby
+🌱 I specialize in developing innovative products and methodologies.
+🔭 I learn things to achieve meaningful goals. I use everything at my disposal to come up with innovative and novel solutions.
+⚡ My areas of interest are Software engineering, data science, product management, physics and social engineering.
 
 My [Portfolio](https://www.nishantbundela.me/)  
-My [Technical Skills](https://nishantbundela.github.io)
+My [LinkedIN]([https://nishantbundela.github.io](https://www.linkedin.com/in/nishantbundela/))
 
 
 <!--
@@ -15,7 +15,7 @@ My [Technical Skills](https://nishantbundela.github.io)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
