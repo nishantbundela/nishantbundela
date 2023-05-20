@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Nishant Bundela
 
-👨🏻‍🎓 Master of Science in Engineering Management from Johns Hopkins University.  
-🏫 Bachelor of Technology in Mechanical Engineering from NIT Kurukshetra  
 🌱 I specialize in developing innovative products and methodologies.  
 🔭 I learn things to achieve meaningful goals. I use everything at my disposal to come up with innovative and novel solutions.  
-⚡ My areas of interest are Software engineering, data science, product management, physics and social engineering.  
+⚡ My areas of interest are Software engineering, data science, product management, physics and social engineering.
+👨🏻‍🎓 Master of Science in Engineering Management from Johns Hopkins University.  
+🏫 Bachelor of Technology in Mechanical Engineering from NIT Kurukshetra  
 
 My [Portfolio](https://www.nishantbundela.me/)  
 My [LinkedIn](https://www.linkedin.com/in/nishantbundela/)
