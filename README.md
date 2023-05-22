@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Nishant Bundela
 
-🌱 I specialize in developing innovative products and methodologies.  
+Well, I don't really have a computer science background but I still love the limitless possibilities programming gives me. My philosophy is to use everything at my disposal and learn whatever is necessary to create amazing things. I have an extremely diverse background that enables me to dream big!  
+
+🌱 Developing innovative products and methodologies.  
 🔭 I learn things to achieve meaningful goals. I use everything at my disposal to come up with innovative and novel solutions.  
 ⚡ My areas of interest are Software engineering, data science, product management, physics and social engineering.  
 👨🏻‍🎓 Master of Science in Engineering Management from Johns Hopkins University.  
