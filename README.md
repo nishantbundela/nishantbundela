@@ -1,10 +1,11 @@
-### Hi there 👋 My name is Nishant Bundela
+### Hi there 👋
 
-Well, I don't really have a computer science background but I still love the limitless possibilities programming gives me. My philosophy is to use everything at my disposal and learn whatever is necessary to create amazing things. I have an extremely diverse background that enables me to dream big!  
+I am Nishant Bundela, an aficionado of disruptive technologies and a specialist in guiding teams toward solutions to complex real-world problems. I like to bring out the best in people and I harness a diverse blend of expertise in Product Management, Software Engineering, Applied Artificial Intelligence, and Data Science, my skillset is as diverse as it is rich. It isn't merely breadth that I seek, but the interconnectedness and profound understanding of every component in the chain of implementation — the key to sculpting exceptional products that truly make a difference.
 
-🌱 Developing innovative products and methodologies.  
-🔭 I learn things to achieve meaningful goals. I use everything at my disposal to come up with innovative and novel solutions.  
-⚡ My areas of interest are Software engineering, data science, product management, physics and social engineering.  
+Passionately, I hold a firm conviction that Artificial Intelligence is poised to bring forth a paradigm shift of unparalleled magnitude. My mission is not only to be a catalyst in this transformation but to lead and advocate for this revolutionary wave. Currently, I am immersed in the research, documentation, and deployment of cutting-edge AI technologies, committed to pushing the boundaries of what's possible.
+
+If my journey resonates with you or if you find my professional experience intriguing, I welcome you to connect. Let's engage in insightful conversations and explore the vast landscape of possibilities together :) 
+
 👨🏻‍🎓 Master of Science in Engineering Management from Johns Hopkins University.  
 🏫 Bachelor of Technology in Mechanical Engineering from NIT Kurukshetra  
 
