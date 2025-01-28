@@ -9,7 +9,6 @@ If my journey resonates with you or if you find my professional experience intri
 👨🏻‍🎓 Master of Science in Engineering Management from Johns Hopkins University.  
 🏫 Bachelor of Technology in Mechanical Engineering from NIT Kurukshetra  
 
-My [Portfolio](https://www.nishantbundela.me/)  
 My [LinkedIn](https://www.linkedin.com/in/nishantbundela/)
 
 
