@@ -1,26 +1,34 @@
-### Hey there! 👋
+# Hey there! 👋
 
-I'm Nishant Bundela. I like science and philosophy ;) With a mix of skills in ML/AI, Software Development, Mechatronics, and Product Management, I'm all about mixing and matching to find exciting solutions.
+I'm **Nishant Bundela**. I like science and philosophy ;) With a mix of skills in ML/AI, Software Development, Mechatronics, and Product Management, I'm all about mixing and matching to find exciting solutions.
 
 Currently, I specialize in building full-stack applications that use LLMs, advanced RAG, and agents to query and perform actions with massive amounts of unstructured and structured data (Research papers, Images, Audio, Video, Presentations, CSVs, SQL Databases, and more).
 
 I like to call myself technology-agnostic, to me the purpose is what matters. Tools and technologies can be learned.
-Skills ->
-AI Models: OpenAI, Anthropic, Huggingface
-AI System Design: Langchain, LlamaIndex, AutoGen, Vector Databases, Knowledge Graphs
-Frontend: React, Next.js, Three.js, Figma
-Backend: FastAPI, Node.js, Django
-Databases: PostgreSQL, CosmosDB, Azure, AI Search, Weaviate, Firebase, Supabase, MongoDB, Hasura
-Azure: OpenAI, ML Studio, App Service, Blob storage, Functions, APIM
-AWS: Bedrock, Kendra, SageMaker, Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB
-GCP: Vertex AI, Cloud Search, App Engine, Cloud Storage, Firebase
 
+## Skills
+
+### AI & ML
+- **AI Models**: OpenAI, Anthropic, Huggingface
+- **AI System Design**: Langchain, LlamaIndex, AutoGen, Vector Databases, Knowledge Graphs
+
+### Development
+- **Frontend**: React, Next.js, Three.js, Figma
+- **Backend**: FastAPI, Node.js, Django
+- **Databases**: PostgreSQL, CosmosDB, Azure AI Search, Weaviate, Firebase, Supabase, MongoDB, Hasura
+
+### Cloud
+- **Azure**: OpenAI, ML Studio, App Service, Blob storage, Functions, APIM
+- **AWS**: Bedrock, Kendra, SageMaker, Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB
+- **GCP**: Vertex AI, Cloud Search, App Engine, Cloud Storage, Firebase
+
+---
 
 It's thrilling times! Working with AI models isn't just my job; it's a personal journey to understand what makes us tick. Every day is a chance to learn something new, and I'm loving the ride.
 
-If you're intrigued, why not get in touch? Let's chat and share ideas. Who knows where this road might lead us? :)a  
+If you're intrigued, why not get in touch? Let's chat and share ideas. Who knows where this road might lead us? :)
 
-My [LinkedIn](https://www.linkedin.com/in/nishantbundela/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nishantbundela/)
 
 
 <!--
