@@ -1,4 +1,4 @@
-###Hey there! 👋
+### Hey there! 👋
 
 I'm Nishant Bundela. I like science and philosophy ;) With a mix of skills in ML/AI, Software Development, Mechatronics, and Product Management, I'm all about mixing and matching to find exciting solutions.
 
