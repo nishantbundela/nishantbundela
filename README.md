@@ -24,7 +24,7 @@ I like to call myself technology-agnostic, to me the purpose is what matters. To
 
 ---
 
-It's thrilling times! Working with AI models isn't just my job; it's a personal journey to understand what makes us tick. Every day is a chance to learn something new, and I'm loving the ride.
+These are thrilling times! Working with AI models isn't just my job; it's a personal journey to understand what makes us tick. Every day is a chance to learn something new, and I'm loving the ride.
 
 If you're intrigued, why not get in touch? Let's chat and share ideas. Who knows where this road might lead us? :)
 
