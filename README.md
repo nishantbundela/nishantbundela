@@ -1,13 +1,24 @@
-### Hi there 👋
+###Hey there! 👋
 
-I am Nishant Bundela, a Product Developer for disruptive technologies and someone who enjoys creating solutions to complex real-world problems. I like to bring out the best in people and I harness a diverse blend of expertise in Product Management, Software Engineering, Applied Artificial Intelligence, and Data Science. It isn't merely breadth that I seek, but the interconnectedness and profound understanding of every component in the chain of implementation — the key to sculpting exceptional products that truly make a difference.
+I'm Nishant Bundela. I like science and philosophy ;) With a mix of skills in ML/AI, Software Development, Mechatronics, and Product Management, I'm all about mixing and matching to find exciting solutions.
 
-I hold a firm conviction that Artificial Intelligence is poised to bring forth a paradigm shift of unparalleled magnitude. I not only want to be a catalyst in this transformation but also lead and advocate for this revolutionary wave. Currently, I am immersed in the research, documentation, and deployment of cutting-edge AI technologies, committed to pushing the boundaries of what's possible.
+Currently, I specialize in building full-stack applications that use LLMs, advanced RAG, and agents to query and perform actions with massive amounts of unstructured and structured data (Research papers, Images, Audio, Video, Presentations, CSVs, SQL Databases, and more).
 
-If my journey resonates with you or if you find my professional experience intriguing, I welcome you to connect. Let's engage in insightful conversations and explore the vast landscape of possibilities together :) 
+I like to call myself technology-agnostic, to me the purpose is what matters. Tools and technologies can be learned.
+Skills ->
+AI Models: OpenAI, Anthropic, Huggingface
+AI System Design: Langchain, LlamaIndex, AutoGen, Vector Databases, Knowledge Graphs
+Frontend: React, Next.js, Three.js, Figma
+Backend: FastAPI, Node.js, Django
+Databases: PostgreSQL, CosmosDB, Azure, AI Search, Weaviate, Firebase, Supabase, MongoDB, Hasura
+Azure: OpenAI, ML Studio, App Service, Blob storage, Functions, APIM
+AWS: Bedrock, Kendra, SageMaker, Elastic Beanstalk, S3, Lambda, API Gateway, DynamoDB
+GCP: Vertex AI, Cloud Search, App Engine, Cloud Storage, Firebase
 
-👨🏻‍🎓 Master of Science in Engineering Management from Johns Hopkins University.  
-🏫 Bachelor of Technology in Mechanical Engineering from NIT Kurukshetra  
+
+It's thrilling times! Working with AI models isn't just my job; it's a personal journey to understand what makes us tick. Every day is a chance to learn something new, and I'm loving the ride.
+
+If you're intrigued, why not get in touch? Let's chat and share ideas. Who knows where this road might lead us? :)a  
 
 My [LinkedIn](https://www.linkedin.com/in/nishantbundela/)
 
